@@ -116,8 +116,83 @@ EJECUCION
 
 ![image](https://github.com/user-attachments/assets/05610653-935e-4237-b73a-e00c21e1ebb0)
 
+#2
+PLACTICA 14
+
+CODIGO
+
+![image](https://github.com/user-attachments/assets/0320f3b0-de3d-47af-959c-75221e0c1ea6)
 
 
 EJECUCION
+
+![image](https://github.com/user-attachments/assets/3f6af71a-e156-4304-8f65-89bbd1731395)
+
+PLACTICA 15
+
+CODIGO
+
+![image](https://github.com/user-attachments/assets/cb44544e-8645-44e4-9058-92e0bbb8761f)
+
+
+EJECUCION 
+
+![image](https://github.com/user-attachments/assets/44bc5960-2d57-41bf-991c-a2d579a04a0d)
+
+PLACTICA 16
+CODIGO
+
+![image](https://github.com/user-attachments/assets/b97f445d-102c-40d3-be25-a1e654c8010d)
+
+EJECUCION
+
+![image](https://github.com/user-attachments/assets/e9fe0589-6f01-47ad-b071-762f29d91c52)
+
+
+PLACTICA 17
+
+CODIGO
+
+![image](https://github.com/user-attachments/assets/673f1c65-eee7-4cf5-9364-8a1b5706e579)
+
+EJECUCION
+
+![image](https://github.com/user-attachments/assets/0fa28994-810d-48f6-8dcf-f49545337374)
+
+
+PLACTICA 18
+
+CODIGO
+
+![image](https://github.com/user-attachments/assets/ac679e63-5f41-4228-9de2-ce05f7ad004c)
+
+
+EJECUCION
+
+![image](https://github.com/user-attachments/assets/170a50e7-4f2b-497e-a372-89799af5f626)
+
+
+PLACTICA 19
+
+CODIGO
+
+![image](https://github.com/user-attachments/assets/941f4763-6f03-40ba-b2b1-3b139ee755fa)
+
+
+EJECUCION 
+
+![image](https://github.com/user-attachments/assets/05985545-2b81-414d-a30b-0de3189758c4)
+
+
+PLACTICA 20
+
+CODIGO
+
+![image](https://github.com/user-attachments/assets/9f53e354-da6f-42ee-a0c1-5c23f6403f26)
+
+EJECCUCION 
+
+![image](https://github.com/user-attachments/assets/81bcba85-f39c-42ea-8764-b7209947f3df)
+
 
 
